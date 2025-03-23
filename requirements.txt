@@ -1,0 +1,10 @@
+ale-py==0.10.1
+gymnasium==1.0.0
+h5py==3.12.1
+keras==3.6.0
+numpy==1.26.4
+opencv-python==4.10.0.84
+torch
+stable_baselines3==2.4.0
+tensorflow==2.16.2
+tqdm==4.67.1
