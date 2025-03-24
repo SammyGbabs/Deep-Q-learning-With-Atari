@@ -123,7 +123,7 @@ A video showing the agent playing in the Atari environment can be found in the `
 - Fine-tune train frequency and batch size to optimize learning stability.
 
 ## How It Looks like
-
+![Description of Image](ALE.png)
 ---
 
 **Author:** 
