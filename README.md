@@ -124,7 +124,25 @@ A video showing the agent playing in the Atari environment can be found in the `
 
 ## How It Looks like
 ![Description of Image](ALE.png)
----
+
+## **Group Collaboration and Individual Contributions**  
+
+Our project was a collaborative effort, with each team member contributing to different aspects of the development and ensuring a well-balanced workload. Below are the individual contributions:  
+
+- **Samuel Babalola (Team Leader)**  
+  - Managed the group's activities and workload distribution.  
+  - Developed the `train.py` script for training the reinforcement learning agent.  
+  - Recorded and documented the gameplay video, showcasing the agent playing the game in real time.  
+
+- **Kevin Nyiringango**  
+  - Focused on hyperparameter tuning to optimize the model’s performance.  
+  - Documented the behavior of the agent for different parameter combinations.  
+
+- **Israel Smart**  
+  - Developed the `play.py` script to enable real-time game rendering.  
+  - Ensured that the game was correctly displayed while the agent was interacting with the environment.  
+
+This collaboration ensured a well-structured workflow and efficient task distribution, leading to a successful implementation of the project. 🚀  
 
 **Author:** 
 - Samuel Babalola (s.babalola@alustudent.com)
