@@ -115,15 +115,19 @@ The following table presents the results of different hyperparameter configurati
 From the experiments, **Experiment 1** provided the best balance between learning stability and performance. Increasing the learning rate too much (Experiment 3) led to instability, while the baseline was inconsistent.
 
 ## Video Demonstration
-A video showing the agent playing in the Atari environment can be found in the `video/` directory or accessed [here](#).
+A video showing the agent playing in the Atari environment can be found in the `video/` directory or accessed [here](https://drive.google.com/file/d/10J-PZ9Db6PmPa1PR3i4cD4NMXK5adk9c/view?usp=sharing).
 
 ## Future Improvements
 - Experiment with different exploration strategies, such as epsilon decay schedules.
 - Implement Prioritized Experience Replay for better sample efficiency.
 - Fine-tune train frequency and batch size to optimize learning stability.
 
+## How It Looks like
+
 ---
 
-**Author:** Samuel Babalola
-**Contact:** s.babalola@alustudent.com
+**Author:** 
+- Samuel Babalola (s.babalola@alustudent.com)
+- Kevin  Nyiringango (k.nyiringan@alustudent.com)
+- Israel Smart (i.smart@alustudent.com)
 
